@@ -1,0 +1,23 @@
+.keys {
+  display: block;
+  background-color: #fff;
+
+  button {
+    width: 25%;
+    height: 60px;
+    font-size: 20px;
+    background-color: #f1f3f4;
+    border-radius: 4px;
+  }
+
+  .outer {
+    background: #dfe1e5;
+    color: #202124;
+  }
+
+  .equal {
+    background: #4285f4;
+    color: #fff;
+    border: 1px solid #4285f4;
+  }
+}
