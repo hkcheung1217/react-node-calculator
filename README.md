@@ -7,3 +7,5 @@ To start:
     - Use the other cmd navigating to "backend" directory
     - Enter "npm install" or "npm i" to install dependencies
     - Enter "npm start"
+
+The deployed version is hosted on GitHub & Heroku.
