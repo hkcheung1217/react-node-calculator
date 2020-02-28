@@ -34,7 +34,7 @@ class Calculator extends React.Component {
   calculate = () => {
     let { result } = this.state;
     axios
-      .post("https://react-node-calculator.herokuapp.com/calculate", { result })
+      .post("http://localhost:4000/calculate", { result })
       .then(res => {
         console.log(res);
         let data = "" + res.data; //convert back to string from int
