@@ -1,0 +1,11 @@
+.app {
+  display: flex;
+  flex-direction: column;
+  width: auto;
+  height: 100%;
+  background: beige;
+  max-width: 100%;
+  align-items: center;
+  justify-content: center;
+  min-width: 15rem;
+}
