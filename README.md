@@ -2,7 +2,7 @@
 
 To start:
 
-    - open two cmd
+    - Open two cmd
     - Use one cmd navigating to "frontend" directory
     - Use the other cmd navigating to "backend" directory
     - Enter "npm install" or "npm i" to install dependencies
