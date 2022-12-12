@@ -9,7 +9,7 @@
   "author": "Hoi Cheung",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "mathjs": "^6.6.0"
   },
   "devDependencies": {
